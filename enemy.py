@@ -22,4 +22,4 @@ def create_mouse():
         "defense": 30,
         "magie": 0
     }
-    return Enemy("Souris sauvage", stats)
+    return Enemy("Souris", stats)
